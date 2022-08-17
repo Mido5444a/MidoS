@@ -134,7 +134,7 @@ BedWars.TextScaled = true
 BedWars.TextSize = 14.000
 BedWars.TextWrapped = true
 BedWars.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/vMZPxjqT"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
 
 end)
 
